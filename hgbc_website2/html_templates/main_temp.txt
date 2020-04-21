@@ -1,0 +1,15 @@
+                <div class="menus d-flex ftco-animate">
+                    <div class="text">
+                        <div class="d-flex">
+                            <div class="one-half">
+                                <a href="./${type}_events.html#${tag}">
+                                    <h3>${name}</h3>
+                                </a>
+                            </div>
+                            <div class="one-forth">
+                                <span class="price">${date}</span>
+                            </div>
+                        </div>
+                        <p> <a href="./${type}_events.html#${tag}"> Read More</a></p>
+                    </div>
+                </div>

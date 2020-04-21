@@ -1,0 +1,262 @@
+$primary: #ffa323;
+
+.nav-item {
+    text-align: center;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+    padding-left: 0px;
+}
+
+.owl-carousel.home-slider .slider-item .slider-text h1 {
+    font-family: None;
+}
+
+.ftco-section {
+    padding: 2em 0;
+}
+
+.heading-section h2 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.heading-menu h3 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 0em;
+}
+
+.menus .text p {
+    font-weight: 300;
+}
+
+.mb-4,
+.my-4 {
+    margin-bottom: 0.7rem !important;
+    margin-top: 0.5rem !important;
+}
+
+.menus .text {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.menus .text .one-half {
+    width: calc(100% - 140px);
+}
+
+.menus .text .one-forth {
+    width: 140px;
+    text-align: right;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: 'PT Sans', Arial, serif;
+}
+
+.menus .text .one-half h3 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+.menus .text .one-forth .price {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.menus .menu-img {
+    width: 100px;
+    height: 90px
+}
+
+.ftco-footer .ftco-footer-widget h2 {
+    font-weight: normal;
+    color: #fff;
+    margin-bottom: 5px;
+    */ font-size: 18px;
+    font-weight: 700;
+}
+
+.mt-3,
+.my-3 {
+    margin-top: 0rem !important;
+}
+
+.mb-5,
+.my-5 {
+    margin-bottom: 1rem !important;
+}
+
+.h1 {
+    font-size:
+}
+
+.hero-wrap.hero-wrap-2 {
+    height: 350px;
+}
+
+.block-20 {
+    background-size: contain;
+    height: 200px;
+}
+
+a {
+    color: #6D0000;
+}
+
+3 a:hover {
+    opacity: 0.7;
+}
+
+.owl-carousel .owl-stage,
+.owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: auto;
+    touch-action: auto;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(188, 43, 12, 0.5);
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+    font-size: 16px;
+}
+
+.staff .about_profile {
+    height: 200px;
+}
+
+.staff .about_initiative_prof {
+    height: 100px;
+}
+@media screen and (max-width: 1500px) {
+    .hero-wrap.hero-wrap-2 {
+        height: 350px;
+    }
+
+    .hero-wrap.hero-wrap-2 .slider-text {
+        height: 325px;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+    .hero-wrap.hero-wrap-2 {
+        height: 600px;
+    }
+
+    .hero-wrap.hero-wrap-2 .slider-text {
+        height: 500px;
+    }
+}
+
+.instagram {
+    height: 100px;
+}
+
+.staff .initiative_profile {
+    height: 150px;
+    border-radius: 10px;
+}
+
+.staff .initiative_profile_side {
+    height: 200px;
+    border-radius: 20px;
+}
+
+@media screen and (min-width: 600px) {
+    .instagram {
+        height: 200px;
+    }
+
+    .staff .initiative_profile {
+        height: 200px;
+        border-radius: 10px;
+    }
+
+    .staff .initiative_profile_side {
+        height: 200px;
+        border-radius: 20px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .instagram {
+        height: 300px;
+    }
+
+    .staff .initiative_profile {
+        height: 200px;
+        border-radius: 10px;
+    }
+
+    .staff .initiative_profile_side {
+        height: 200px;
+        border-radius: 20px;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+    .instagram {
+        height: 400px;
+    }
+}
+
+h2 {
+    line-height: 1;
+}
+
+
+#mydiv > .dropdown-menu {
+    background: transparent !important;
+}
+
+.dropdown .dropdown-menu {
+    background-color: transparent !important;
+}
+
+.dropdown-menu a {
+    background-color: transparent !important;
+}
+
+.nav-drop-a {
+    color: #aaa;
+}
+
+.side_profile_text {
+    padding-top: 50px;
+}
+
+@media screen and (max-width: 991.98px) {
+    .sidebar {
+        margin-top: 0em;
+    }
+
+    .nav-drop-a {
+        color: #aaa;
+    }
+
+    .staff .initiative_profile_side {
+        height: 100px;
+        border-radius: 20px;
+    }
+
+}
+
+@media screen and (min-width: 991.98px) {
+.awake .navbar-nav > .nav-item .dropdown-menu {
+        background-color: #fff !important;
+    }    
+}
+
+.owl-carousel.home-slider .slider-item .slider-text h1 {
+    font-size: 2.5rem;
+}
+
+.hero-wrap .overlay {
+    opacity: 0.6;
+}

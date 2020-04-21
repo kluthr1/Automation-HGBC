@@ -1,0 +1,19 @@
+    <section class="ftco-section" style="padding-bottom: 1em; padding-top: 7.5em " id="CWR">
+        <div class="container" id="1">
+            <div class="row justify-content-center">
+                <div class="col-sm-10 wrap-about ftco-animate text-center">
+                    <div class="heading-section">
+                        <h3 class="mb-4">${name}</h3>
+                    </div>
+                    <p style="text-align: center">${date}</p>
+                    <p style="text-align: center">${location}</p>
+
+                    <p style="text-align: justify">
+                        ${long}
+                    </p>
+                    <img src="../my_images/event_imgs/${image}" , style="width: 75%">
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr class="mt-2 mb-5">

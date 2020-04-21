@@ -1,0 +1,15 @@
+  <div class="col-md-4 ftco-animate">
+                            <div class="blog-entry">
+                                <a href="./${type}_events.html#${tag}" class="block-20" style="background-image: url('../my_images/event_imgs/${thumbnail}');">
+                                </a>
+                                <div class="text pt-1 pb-2">
+                                    <div class="meta">
+                                        <div>${date}</div>
+                                        <div>${location}</div>
+                                    </div>
+                                    <h3 class="heading"><a href="./${type}_events.html#${tag}">${name}</a></h3>
+                                    <p class="clearfix">
+                                        <a href="./${type}_events.html#${tag}" class="float-left read">${short}</a> </p>
+                                </div>
+                            </div>
+                    </div>
